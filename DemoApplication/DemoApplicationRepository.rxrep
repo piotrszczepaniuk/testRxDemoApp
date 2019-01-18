@@ -1,0 +1,83 @@
+﻿<repository
+id="c9d75eed-9ef9-4844-9430-bb11cea90747"
+name="DemoApplicationRepository"
+rxversion="8.3">
+	<codegen
+	classname="DemoApplicationRepository"
+	namespace="DemoApplication">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="583dca41-cd2d-4060-8236-2b296d0e0f8f"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="b99cbec9-fb64-4efc-bef5-e7bae7f8a37e"
+		isrooted="True"
+		name="ApplicationUnderTest"
+		searchtimeout="30000ms"
+		usecache="True">
+			<folder
+			addcaps="tabpage,control,nativewindow"
+			capname="tabpage"
+			id="d97ebd21-522f-4654-a064-be1d5389df22"
+			isrooted="True"
+			name="RxTabIntroduction"
+			refpath="/form[@controlname='RxMainFrame']/tabpagelist[@controlname='RxTabcontrol']/tabpage[@controlname='RxTabIntroduction']"
+			searchtimeout="30000ms"
+			usecache="False">
+				<item
+				addcaps="button,control,nativewindow"
+				capname="button"
+				id="6613a9cc-8e8e-4193-be93-03ccfc149d7f"
+				name="BtnSubmitUserName"
+				refimgid="4a0668cf-4069-4180-a9f9-77578fbc91c0"
+				refpath="/form[@controlname='RxMainFrame']/tabpagelist/tabpage/button[@controlname='btnSubmitUserName']"
+				searchtimeout="30000ms">
+					/form[@processname='RxDemoApp']/?/?/tabpage[@controlname='RxTabIntroduction']/button[@controlname='btnSubmitUserName']
+				</item>
+				<item
+				addcaps="link,control,nativewindow"
+				capname="link"
+				id="4a421857-fe5d-43ba-a0e9-fab6ec159711"
+				name="RxLinkBtnReset"
+				refimgid="9f1be4d6-2898-43ab-a482-37b049a11578"
+				refpath="/form[@controlname='RxMainFrame']/tabpagelist/tabpage/link[@controlname='RxLinkBtnReset']"
+				searchtimeout="30000ms">
+					/form[@processname='RxDemoApp']/?/?/tabpage[@controlname='RxTabIntroduction']/link[@controlname='RxLinkBtnReset']
+				</item>
+				<item
+				addcaps="text,control,nativewindow"
+				capname="text"
+				id="76f5af5d-a60b-4022-9168-813867953fc6"
+				name="TxtUserName"
+				refimgid="f9895240-3ef1-49fe-8651-21e7ce540255"
+				refpath="/form[@controlname='RxMainFrame']/tabpagelist/tabpage/text[@controlname='txtUserName']"
+				searchtimeout="30000ms">
+					/form[@processname='RxDemoApp']/?/?/tabpage[@controlname='RxTabIntroduction']/text[@controlname='txtUserName']
+				</item>
+				<basepath>
+					/form[@processname='RxDemoApp']/?/?/tabpage[@controlname='RxTabIntroduction']
+				</basepath>
+			</folder>
+			<basepath>
+				/form[@processname='RxDemoApp']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAACdSURBVDhPY0AGISEhlUFBQb+IxDOg2iAgODj4
+FBB3QbmkA6Dm/yD6AZvwvPvsQhvhmBUTXxcW5gVrQgYgA9LS0ljvcwpZ3GcXdsSH/zOEMkO1IQDI
+ACD+DcSfsGCQHLpYLVQrBAAF/tfX1zNBuXhBeHi4AlD9bygXAkAGQJlEgVEDhrUBjBAeYYBhADB7
+BoAMAeIGIvB8IAYawMAAAA20kY5E9ZbiAAAAAElFTkSuQmCC
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

@@ -1,0 +1,9 @@
+C:\Users\user\Documents\Ranorex\RanorexStudio Projects\DemoApplication\DemoApplication\bin\Debug\DemoApplication.rxtmg
+C:\Users\user\Documents\Ranorex\RanorexStudio Projects\DemoApplication\DemoApplication\bin\Debug\DemoApplication.rxtst
+C:\Users\user\Documents\Ranorex\RanorexStudio Projects\DemoApplication\DemoApplication\bin\Debug\DemoApplication.exe.config
+C:\Users\user\Documents\Ranorex\RanorexStudio Projects\DemoApplication\DemoApplication\bin\Debug\DemoApplication.exe
+C:\Users\user\Documents\Ranorex\RanorexStudio Projects\DemoApplication\DemoApplication\bin\Debug\DemoApplication.pdb
+C:\Users\user\Documents\Ranorex\RanorexStudio Projects\DemoApplication\DemoApplication\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\user\Documents\Ranorex\RanorexStudio Projects\DemoApplication\DemoApplication\obj\x86\Debug\DemoApplication.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Ranorex\RanorexStudio Projects\DemoApplication\DemoApplication\obj\x86\Debug\DemoApplication.exe
+C:\Users\user\Documents\Ranorex\RanorexStudio Projects\DemoApplication\DemoApplication\obj\x86\Debug\DemoApplication.pdb

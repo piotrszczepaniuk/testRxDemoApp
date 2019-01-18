@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="7a80c6535a930a2"
+		totalerrorcount="0"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="Piotr"
+		rxversion="8.3.0.0"
+		host="LAPTOP-LLEN83NO"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="pl-PL"
+		screenresolution="1920x1080"
+		timestamp="14.01.2019 16:11:33"
+		timestampiso="2019-01-14T15:11:33"
+		endtime="14.01.2019 16:11:39"
+		timeoutfactor="1"
+		module="StartAUT">
+		<detail>
+			StartAUT
+		</detail>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.640"
+			timeRelativeToTestModuleStartTime="00:05.645"
+			timeWallClock="16:11:39"
+			time="00:05.640"
+			level="Warn"
+			category="General">
+			<message>
+				Different display DPI scaling values are in use. Please make sure all connected displays have the same DPI scaling value.<br/>The following website provides more information on this technology limitation:<br/>https://www.ranorex.com/help/v8.3/interfaces-connectivity/technology-instrumentation/general-troubleshooting/#DifferentDPIScalingValues<br/>(This message is only shown once per report.)
+			</message>
+			<metainfo
+				limitationName="DifferentDpi"
+				showInProgressDialog="False"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.773"
+			timeRelativeToTestModuleStartTime="00:05.778"
+			timeWallClock="16:11:39"
+			time="00:05.773"
+			level="Info"
+			category="Application">
+			<message>
+				Run application 'C:\Users\user\Downloads\RxDemoApp\RxDemoApp.exe' with arguments '' in normal mode.
+			</message>
+			<metainfo
+				itemindex="0"
+				codefile="c:\Users\user\Documents\Ranorex\RanorexStudio Projects\DemoApplication\DemoApplication\StartAUT.cs"
+				codeline="82"
+				loglvl="Info">
+			</metainfo>
+		</item>
+	</activity>
+</report>
